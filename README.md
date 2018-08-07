@@ -1,3 +1,3 @@
 # sparsh
 Python Package Repository
-![alt text](Screenshot.png)
+![alt text](Screenshot.PNG)
