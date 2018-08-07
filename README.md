@@ -1,4 +1,4 @@
-# sparsh
+# Model_Deployment_HousePrice
 1. Download main dataset (i.e. 'DC_Properties.csv') from here: https://www.kaggle.com/christophercorrea/dc-residential-properties#DC_Properties.csv
 
 2. Open IPython Notebook 'Recipient.ipynb' : Train the Model and export(pickle) the model(.pkl format)
