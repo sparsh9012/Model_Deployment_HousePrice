@@ -1,3 +1,3 @@
 # sparsh
 Python Package Repository
-![alt text](templates/upload.png)
+![alt text](upload.png)
